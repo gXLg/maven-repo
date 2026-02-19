@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>dev.gxlg.versiont-toolchain</groupId>
+  <artifactId>dev.gxlg.versiont-toolchain.gradle.plugin</artifactId>
+  <version>0.0.3</version>
+  <packaging>pom</packaging>
+  <name>Version't Toolchain</name>
+  <description>A powerful java reflection layer and toolchain targeted at multi-version Minecraft Fabric modding</description>
+  <dependencies>
+    <dependency>
+      <groupId>dev.gxlg</groupId>
+      <artifactId>versiont-toolchain</artifactId>
+      <version>0.0.3</version>
+    </dependency>
+  </dependencies>
+</project>
